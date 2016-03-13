@@ -1,0 +1,605 @@
+1. J Neurosci. 2015 Dec 9;35(49):16159-70. doi: 10.1523/JNEUROSCI.2034-15.2015.
+
+Persistent Associative Plasticity at an Identified Synapse Underlying Classical
+Conditioning Becomes Labile with Short-Term Homosynaptic Activation.
+
+Hu J(1), Schacher S(2).
+
+Author information: 
+(1)Department of Neuroscience, Columbia University Medical Center, New York State
+Psychiatric Institute, New York, New York 10032 jh2004@cumc.columbia.edu.
+(2)Department of Neuroscience, Columbia University Medical Center, New York State
+Psychiatric Institute, New York, New York 10032.
+
+Synapses express different forms of plasticity that contribute to different forms
+of memory, and both memory and plasticity can become labile after reactivation.
+We previously reported that a persistent form of nonassociative long-term
+facilitation (PNA-LTF) of the sensorimotor synapses in Aplysia californica, a
+cellular analog of long-term sensitization, became labile with short-term
+heterosynaptic reactivation and reversed when the reactivation was followed by
+incubation with the protein synthesis inhibitor rapamycin. Here we examined the
+reciprocal impact of different forms of short-term plasticity (reactivations) on 
+a persistent form of associative long-term facilitation (PA-LTF), a cellular
+analog of classical conditioning, which was expressed at Aplysia sensorimotor
+synapses when a tetanic stimulation of the sensory neurons was paired with a
+brief application of serotonin on 2 consecutive days. The expression of
+short-term homosynaptic plasticity [post-tetanic potentiation or homosynaptic
+depression (HSD)], or short-term heterosynaptic plasticity [serotonin-induced
+facilitation or neuropeptide Phe-Met-Arg-Phe-NH2 (FMRFa)-induced depression], at 
+synapses expressing PA-LTF did not affect the maintenance of PA-LTF. The kinetics
+of HSD was attenuated at synapses expressing PA-LTF, which required activation of
+protein kinase C (PKC). Both PA-LTF and the attenuated kinetics of HSD were
+reversed by either a transient blockade of PKC activity or a homosynaptic, but
+not heterosynaptic, reactivation when paired with rapamycin. These results
+indicate that two different forms of persistent synaptic plasticity, PA-LTF and
+PNA-LTF, expressed at the same synapse become labile when reactivated by
+different stimuli.SIGNIFICANCE STATEMENT: Activity-dependent changes in neural
+circuits mediate long-term memories. Some forms of long-term memories become
+labile and can be reversed with specific types of reactivations, but the
+mechanism is complex. At the cellular level, reactivations that induce a reversal
+of memory must evoke changes in neural circuits underlying the memory. What types
+of reactivations induce a labile state at neural connections that lead to
+reversal of different types of memory? We find that a critical neural connection 
+in Aplysia, which is modified with different stimuli that mediate different types
+of memory, becomes labile with different types of reactivations. These results
+provide insights for developing strategies in alleviating maladaptive memories
+accompanying anxiety disorders.
+
+Copyright © 2015 the authors 0270-6474/15/3516159-12$15.00/0.
+
+PMCID: PMC4682782 [Available on 2016-06-09]
+PMID: 26658867  [PubMed - in process]
+
+
+2. J Neurosci. 2015 Nov 25;35(47):15649-65. doi: 10.1523/JNEUROSCI.1364-15.2015.
+
+Human Umbilical Tissue-Derived Cells Promote Synapse Formation and Neurite
+Outgrowth via Thrombospondin Family Proteins.
+
+Koh S(1), Kim N(2), Yin HH(3), Harris IR(4), Dejneka NS(4), Eroglu C(5).
+
+Author information: 
+(1)Departments of Cell Biology. (2)Neurobiology. (3)Neurobiology, Psychology and 
+Neuroscience, and Duke Institute for Brain Sciences, Duke University, Durham,
+North Carolina 27710, and. (4)Janssen Research and Development, Spring House,
+Pennsylvania 19477. (5)Departments of Cell Biology, Neurobiology, Duke Institute 
+for Brain Sciences, Duke University, Durham, North Carolina 27710, and
+c.eroglu@cellbio.duke.edu.
+
+Cell therapy demonstrates great potential for the treatment of neurological
+disorders. Human umbilical tissue-derived cells (hUTCs) were previously shown to 
+have protective and regenerative effects in animal models of stroke and retinal
+degeneration, but the underlying therapeutic mechanisms are unknown. Because
+synaptic dysfunction, synapse loss, degeneration of neuronal processes, and
+neuronal death are hallmarks of neurological diseases and retinal degenerations, 
+we tested whether hUTCs contribute to tissue repair and regeneration by
+stimulating synapse formation, neurite outgrowth, and neuronal survival. To do
+so, we used a purified rat retinal ganglion cell culture system and found that
+hUTCs secrete factors that strongly promote excitatory synaptic connectivity and 
+enhance neuronal survival. Additionally, we demonstrated that hUTCs support
+neurite outgrowth under normal culture conditions and in the presence of the
+growth-inhibitory proteins chondroitin sulfate proteoglycan, myelin basic
+protein, or Nogo-A (reticulon 4). Furthermore, through biochemical fractionation 
+and pharmacology, we identified the major hUTC-secreted synaptogenic factors as
+the thrombospondin family proteins (TSPs), TSP1, TSP2, and TSP4. Silencing TSP
+expression in hUTCs, using small RNA interference, eliminated both the
+synaptogenic function of these cells and their ability to promote neurite
+outgrowth. However, the majority of the prosurvival functions of hUTC-conditioned
+media was spared after TSP knockdown, indicating that hUTCs secrete additional
+neurotrophic factors. Together, our findings demonstrate that hUTCs affect
+multiple aspects of neuronal health and connectivity through secreted factors,
+and each of these paracrine effects may individually contribute to the
+therapeutic function of these cells.SIGNIFICANCE STATEMENT: Human umbilical
+tissue-derived cells (hUTC) are currently under clinical investigation for the
+treatment of geographic atrophy secondary to age-related macular degeneration.
+These cells show great promise for the treatment of neurological disorders;
+however, the therapeutic effects of these cells on CNS neurons are not fully
+understood. Here we provide compelling evidence that hUTCs secrete multiple
+factors that work synergistically to enhance synapse formation and function, and 
+support neuronal growth and survival. Moreover, we identified thrombospondins
+(TSPs) as the hUTC-secreted factors that mediate the synaptogenic and
+growth-promoting functions of these cells. Our findings highlight novel paracrine
+effects of hUTC on CNS neuron health and connectivity and begin to unravel
+potential therapeutic mechanisms by which these cells elicit their effects.
+
+Copyright © 2015 the authors 0270-6474/15/3515650-17$15.00/0.
+
+PMCID: PMC4659827 [Available on 2016-05-25]
+PMID: 26609158  [PubMed - in process]
+
+
+3. J Neurosci. 2015 Oct 21;35(42):14327-40. doi: 10.1523/JNEUROSCI.2349-15.2015.
+
+PSD-Zip70 Deficiency Causes Prefrontal Hypofunction Associated with Glutamatergic
+Synapse Maturation Defects by Dysregulation of Rap2 Activity.
+
+Mayanagi T(1), Yasuda H(2), Sobue K(3).
+
+Author information: 
+(1)Department of Neuroscience, Institute of Biomedical Sciences, School of
+Medicine, Iwate Medical University, 2-1-1 Yahaba, Shiwa 028-3694, Japan, and.
+(2)Education and Research Support Center, Gunma University Graduate School of
+Medicine, 3-39-22 Showa-machi, Maebashi 371-8511, Japan. (3)Department of
+Neuroscience, Institute of Biomedical Sciences, School of Medicine, Iwate Medical
+University, 2-1-1 Yahaba, Shiwa 028-3694, Japan, and ksobue@iwate-med.ac.jp.
+
+Dysregulation of synapse formation and plasticity is closely related to the
+pathophysiology of psychiatric and neurodevelopmental disorders. The prefrontal
+cortex (PFC) is particularly important for executive functions such as working
+memory, cognition, and emotional control, which are impaired in the disorders.
+PSD-Zip70 (Lzts1/FEZ1) is a postsynaptic density (PSD) protein predominantly
+expressed in the frontal cortex, olfactory bulb, striatum, and hippocampus. Here 
+we found that PSD-Zip70 knock-out (PSD-Zip70KO) mice exhibit working memory and
+cognitive defects, and enhanced anxiety-like behaviors. These abnormal behaviors 
+are caused by impaired glutamatergic synapse transmission accompanied by
+tiny-headed immature dendritic spines in the PFC, due to aberrant Rap2
+activation, which has roles in synapse formation and plasticity. PSD-Zip70
+modulates the Rap2 activity by interacting with SPAR (spine-associated RapGAP)
+and PDZ-GEF1 (RapGEF) in the postsynapse. Furthermore, suppression of the
+aberrant Rap2 activation in the PFC rescued the behavioral defects in PSD-Zip70KO
+mice. Our data demonstrate a critical role for PSD-Zip70 in Rap2-dependent spine 
+synapse development in the PFC and underscore the importance of this regulation
+in PFC-dependent behaviors.SIGNIFICANCE STATEMENT: PSD-Zip70 deficiency causes
+behavioral defects in working memory and cognition, and enhanced anxiety due to
+prefrontal hypofunction. This study revealed that PSD-Zip70 plays essential roles
+in glutamatergic synapse maturation via modulation of the Rap2 activity in the
+PFC. PSD-Zip70 interacts with both SPAR (spine-associated RapGAP) and PDZ-GEF1
+(RapGEF) and modulates the Rap2 activity in postsynaptic sites. Our results
+provide a novel Rap2-specific regulatory mechanism in synaptic maturation
+involving PSD-Zip70.
+
+Copyright © 2015 the authors 0270-6474/15/3514327-14$15.00/0.
+
+PMID: 26490870  [PubMed - indexed for MEDLINE]
+
+
+4. J Neurosci. 2015 Aug 5;35(31):11056-67. doi: 10.1523/JNEUROSCI.1069-15.2015.
+
+Inositol Hexakisphosphate Kinase-3 Regulates the Morphology and Synapse Formation
+of Cerebellar Purkinje Cells via Spectrin/Adducin.
+
+Fu C(1), Xu J(1), Li RJ(2), Crawford JA(3), Khan AB(1), Ma TM(1), Cha JY(1),
+Snowman AM(1), Pletnikov MV(3), Snyder SH(4).
+
+Author information: 
+(1)The Solomon H. Snyder Department of Neuroscience. (2)Departments of
+Pharmacology and Molecular Sciences, and. (3)Departments of Psychiatry and
+Behavioral Sciences, Johns Hopkins University School of Medicine, Baltimore,
+Maryland 21205. (4)The Solomon H. Snyder Department of Neuroscience, Departments 
+of Pharmacology and Molecular Sciences, and Departments of Psychiatry and
+Behavioral Sciences, Johns Hopkins University School of Medicine, Baltimore,
+Maryland 21205 ssnyder@jhmi.edu.
+
+The inositol hexakisphosphate kinases (IP6Ks) are the principal enzymes that
+generate inositol pyrophosphates. There are three IP6Ks (IP6K1, 2, and 3).
+Functions of IP6K1 and IP6K2 have been substantially delineated, but little is
+known of IP6K3's role in normal physiology, especially in the brain. To elucidate
+functions of IP6K3, we generated mice with targeted deletion of IP6K3. We
+demonstrate that IP6K3 is highly concentrated in the brain in cerebellar Purkinje
+cells. IP6K3 physiologically binds to the cytoskeletal proteins adducin and
+spectrin, whose mutual interactions are perturbed in IP6K3-null mutants.
+Consequently, IP6K3 knock-out cerebella manifest abnormalities in Purkinje cell
+structure and synapse number, and the mutant mice display deficits in motor
+learning and coordination. Thus, IP6K3 is a major determinant of cytoskeletal
+disposition and function of cerebellar Purkinje cells.SIGNIFICANCE STATEMENT: We 
+identified and cloned a family of three inositol hexakisphosphate kinases (IP6Ks)
+that generate the inositol pyrophosphates, most notably 5-diphosphoinositol
+pentakisphosphate (IP7). Of these, IP6K3 has been least characterized. In the
+present study we generated IP6K3 knock-out mice and show that IP6K3 is highly
+expressed in cerebellar Purkinje cells. IP6K3-deleted mice display defects of
+motor learning and coordination. IP6K3-null mice manifest aberrations of Purkinje
+cells with a diminished number of synapses. IP6K3 interacts with the cytoskeletal
+proteins spectrin and adducin whose altered disposition in IP6K3 knock-out mice
+may mediate phenotypic features of the mutant mice. These findings afford
+molecular/cytoskeletal mechanisms by which the inositol polyphosphate system
+impacts brain function.
+
+Copyright © 2015 the authors 0270-6474/15/3511056-12$15.00/0.
+
+PMCID: PMC4524975
+PMID: 26245967  [PubMed - indexed for MEDLINE]
+
+
+5. J Neurosci. 2015 Jul 1;35(26):9676-88. doi: 10.1523/JNEUROSCI.0513-15.2015.
+
+α6-Containing GABAA Receptors Are the Principal Mediators of Inhibitory Synapse
+Strengthening by Insulin in Cerebellar Granule Cells.
+
+Accardi MV(1), Brown PM(2), Miraucourt LS(3), Orser BA(4), Bowie D(5).
+
+Author information: 
+(1)Department of Pharmacology and Therapeutics, Graduate Program in Pharmacology,
+and. (2)Department of Pharmacology and Therapeutics, Integrated Program in
+Neuroscience, McGill University, Montréal, Québec H3A 2B4, Canada, and.
+(3)Department of Pharmacology and Therapeutics. (4)Department of Physiology,
+University of Toronto, Toronto, Ontario M5S 1A8, Canada. (5)Department of
+Pharmacology and Therapeutics, derek.bowie@mcgill.ca.
+
+Activity-dependent strengthening of central synapses is a key factor driving
+neuronal circuit behavior in the vertebrate CNS. At fast inhibitory synapses,
+strengthening is thought to occur by increasing the number of GABAA receptors
+(GABARs) of the same subunit composition to preexisting synapses. Here, we show
+that strengthening of mouse cerebellar granule cell GABAergic synapses occurs by 
+a different mechanism. Specifically, we show that the neuropeptide hormone,
+insulin, strengthens inhibitory synapses by recruiting α6-containing GABARs
+rather than accumulating more α1-containing receptors that are resident to the
+synapse. Because α6-receptors are targeted to functionally distinct postsynaptic 
+sites from α1-receptors, we conclude that only a subset of all inhibitory
+synapses are strengthened. Together with our recent findings on stellate cells,
+we propose a general mechanism by which mature inhibitory synapses are
+strengthened. In this scenario, α1-GABARs resident to inhibitory synapses form
+the hardwiring of neuronal circuits with receptors of a different composition
+fulfilling a fundamental, but unappreciated, role in synapse strengthening.
+
+Copyright © 2015 the authors 0270-6474/15/359676-13$15.00/0.
+
+PMID: 26134650  [PubMed - indexed for MEDLINE]
+
+
+6. J Neurosci. 2015 Jul 1;35(26):9539-41. doi: 10.1523/JNEUROSCI.1340-15.2015.
+
+Early Events of Synapse Disassembly in the Damaged Retina.
+
+Pottackal J(1).
+
+Author information: 
+(1)Interdepartmental Neuroscience Program and Department of Ophthalmology and
+Visual Science, Yale University School of Medicine, New Haven, Connecticut 06511 
+joseph.pottackal@yale.edu.
+
+Comment on
+    J Neurosci. 2015 Feb 11;35(6):2423-31.
+
+PMID: 26134636  [PubMed - indexed for MEDLINE]
+
+
+7. J Neurosci. 2015 Jun 24;35(25):9281-6. doi: 10.1523/JNEUROSCI.0670-15.2015.
+
+An Asymmetric Increase in Inhibitory Synapse Number Underlies the Development of 
+a Direction Selective Circuit in the Retina.
+
+Morrie RD(1), Feller MB(2).
+
+Author information: 
+(1)Department of Molecular and Cell Biology, and. (2)Department of Molecular and 
+Cell Biology, and Helen Wills Neuroscience Institute, University of California,
+Berkeley, Berkeley, California 94720 mfeller@berkeley.edu.
+
+Neural circuits rely upon a precise wiring of their component neurons to perform 
+meaningful computations. To compute the direction of motion in the visual scene, 
+the direction selective circuit in the mouse retina depends on an asymmetry in
+the inhibitory neurotransmission from starburst amacrine cells (SACs) to
+direction selective ganglion cells (DSGCs). Specifically, depolarization of a SAC
+on the null side of a DSGC causes a threefold greater unitary inhibitory
+conductance than depolarization of a SAC on the preferred side. This asymmetry
+emerges during the second postnatal week of development, but its basis remains
+unknown. To determine the source of this asymmetry in inhibitory conductance, we 
+conducted paired recordings between SACs and DSGCs at the beginning and end of
+the second postnatal week. We replaced calcium with strontium to promote
+asynchronous neurotransmitter release and produce quantal events. During the
+second postnatal week the quantal frequency but not the quantal amplitude of
+synaptic events increased more than threefold for null-side SAC-DSGC pairs but
+remained constant for preferred-side pairs. In addition, paired-pulse depression 
+did not differ between SACs located on the null and preferred sides of DSGCs,
+indicating that all inhibitory SAC synapses onto a DSGC exhibit the same
+probability of release. Thus, the higher quantal frequency seen in null-side
+pairs results from a greater number of inhibitory synapses, revealing that an
+asymmetry in synapse number between SACs and DSGCs underlies the development of
+an essential component in the retina's direction selective circuit.
+
+Copyright © 2015 the authors 0270-6474/15/359281-06$15.00/0.
+
+PMCID: PMC4478249
+PMID: 26109653  [PubMed - indexed for MEDLINE]
+
+
+8. J Neurosci. 2015 May 27;35(21):8272-90. doi: 10.1523/JNEUROSCI.4841-14.2015.
+
+Complexin stabilizes newly primed synaptic vesicles and prevents their premature 
+fusion at the mouse calyx of held synapse.
+
+Chang S(1), Reim K(2), Pedersen M(1), Neher E(3), Brose N(4), Taschenberger H(5).
+
+Author information: 
+(1)Department of Membrane Biophysics, Max Planck Institute for Biophysical
+Chemistry, 37077 Göttingen, Germany. (2)Department of Molecular Neurobiology, Max
+Planck Institute of Experimental Medicine, 37075 Göttingen, Germany, and.
+(3)Department of Membrane Biophysics, Max Planck Institute for Biophysical
+Chemistry, 37077 Göttingen, Germany, DFG-Research Center for Nanoscale Microscopy
+and Molecular Physiology of the Brain, 37073 Göttingen, Germany. (4)Department of
+Molecular Neurobiology, Max Planck Institute of Experimental Medicine, 37075
+Göttingen, Germany, and DFG-Research Center for Nanoscale Microscopy and
+Molecular Physiology of the Brain, 37073 Göttingen, Germany. (5)Department of
+Membrane Biophysics, Max Planck Institute for Biophysical Chemistry, 37077
+Göttingen, Germany, Department of Molecular Neurobiology, Max Planck Institute of
+Experimental Medicine, 37075 Göttingen, Germany, and DFG-Research Center for
+Nanoscale Microscopy and Molecular Physiology of the Brain, 37073 Göttingen,
+Germany taschenberger@em.mpg.de.
+
+Complexins (Cplxs) are small synaptic proteins that cooperate with
+SNARE-complexes in the control of synaptic vesicle (SV) fusion. Studies involving
+genetic mutation, knock-down, or knock-out indicated two key functions of Cplx
+that are not mutually exclusive but cannot easily be reconciled, one in
+facilitating SV fusion, and one in "clamping" SVs to prevent premature fusion.
+Most studies on the role of Cplxs in mammalian synapse function have relied on
+cultured neurons, heterologous expression systems, or membrane fusion assays in
+vitro, whereas little is known about the function of Cplxs in native synapses. We
+therefore studied consequences of genetic ablation of Cplx1 in the mouse calyx of
+Held synapse, and discovered a developmentally exacerbating phenotype of reduced 
+spontaneous and evoked transmission but excessive asynchronous release after
+stimulation, compatible with combined facilitating and clamping functions of
+Cplx1. Because action potential waveforms, Ca(2+) influx, readily releasable SV
+pool size, and quantal size were unaltered, the reduced synaptic strength in the 
+absence of Cplx1 is most likely a consequence of a decreased release probability,
+which is caused, in part, by less tight coupling between Ca(2+) channels and
+docked SV. We found further that the excessive asynchronous release in
+Cplx1-deficient calyces triggered aberrant action potentials in their target
+neurons, and slowed-down the recovery of EPSCs after depleting stimuli. The
+augmented asynchronous release had a delayed onset and lasted hundreds of
+milliseconds, indicating that it predominantly represents fusion of newly
+recruited SVs, which remain unstable and prone to premature fusion in the absence
+of Cplx1.
+
+Copyright © 2015 the authors 0270-6474/15/358272-19$15.00/0.
+
+PMID: 26019341  [PubMed - indexed for MEDLINE]
+
+
+9. J Neurosci. 2015 May 20;35(20):7736-49. doi: 10.1523/JNEUROSCI.0004-15.2015.
+
+PKMζ, but not PKCλ, is rapidly synthesized and degraded at the neuronal synapse.
+
+Palida SF(1), Butko MT(1), Ngo JT(2), Mackey MR(3), Gross LA(2), Ellisman MH(4), 
+Tsien RY(5).
+
+Author information: 
+(1)Department of Pharmacology. (2)Department of Pharmacology, Howard Hughes
+Medical Institute. (3)National Center for Microscopy and Imaging Research.
+(4)National Center for Microscopy and Imaging Research, Department of
+Neurosciences, and. (5)Department of Pharmacology, Howard Hughes Medical
+Institute, Department of Chemistry & Biochemistry, University of California, San 
+Diego, La Jolla, California 92093 rtsien@ucsd.edu.
+
+Synthesizing, localizing, and stabilizing new protein copies at synapses are
+crucial factors in maintaining the synaptic changes required for storing
+long-term memories. PKMζ recently emerged as a molecule putatively responsible
+for maintaining encoded memories over time because its presence correlates with
+late LTP and because its inhibition disrupts LTP in vitro and long-term memory
+storage in vivo. Here we investigated PKMζ stability in rat neurons to better
+understand its role during information encoding and storage. We used TimeSTAMP
+reporters to track the synthesis and degradation of PKMζ as well as a related
+atypical PKC, PKCλ. These reporters revealed that both PKMζ and PKCλ were
+upregulated after chemical LTP induction; however, these new PKMζ copies
+exhibited more rapid turnover than basally produced PKMζ, particularly in
+dendritic spines. In contrast to PKMζ, new PKCλ copies exhibited elevated
+stability. Stable information storage over long periods of time is more
+challenging the shorter the metabolic lifetime of the candidate molecules.
+
+Copyright © 2015 the authors 0270-6474/15/357736-14$15.00/0.
+
+PMCID: PMC4438124
+PMID: 25995463  [PubMed - indexed for MEDLINE]
+
+
+10. J Neurosci. 2015 Apr 8;35(14):5504-21. doi: 10.1523/JNEUROSCI.2548-14.2015.
+
+Neuronal pentraxin 1 negatively regulates excitatory synapse density and synaptic
+plasticity.
+
+Figueiro-Silva J(1), Gruart A(2), Clayton KB(1), Podlesniy P(1), Abad MA(1),
+Gasull X(3), Delgado-García JM(2), Trullas R(4).
+
+Author information: 
+(1)Neurobiology Unit, Institut d'Investigacions Biomèdiques de Barcelona, Consejo
+Superior de Investigaciones Científicas (CSIC), 08036 Barcelona, Spain, Centro de
+Investigación Biomédica en Red sobre Enfermedades Neurodegenerativas (CIBERNED), 
+Instituto de Salud Carlos III, Madrid, Spain. (2)División de Neurociencias,
+Universidad Pablo de Olavide, 41013 Sevilla, Spain. (3)Laboratory of
+Neurophysiology, School of Medicine, University of Barcelona, 08036 Barcelona,
+Spain, and Institut d'Investigacions Biomèdiques August Pi i Sunyer (IDIBAPS),
+08036 Barcelona, Spain. (4)Neurobiology Unit, Institut d'Investigacions
+Biomèdiques de Barcelona, Consejo Superior de Investigaciones Científicas (CSIC),
+08036 Barcelona, Spain, Centro de Investigación Biomédica en Red sobre
+Enfermedades Neurodegenerativas (CIBERNED), Instituto de Salud Carlos III,
+Madrid, Spain, Institut d'Investigacions Biomèdiques August Pi i Sunyer
+(IDIBAPS), 08036 Barcelona, Spain ramon.trullas@iibb.csic.es.
+
+In mature neurons, the number of synapses is determined by a neuronal
+activity-dependent dynamic equilibrium between positive and negative regulatory
+factors. We hypothesized that neuronal pentraxin (NP1), a proapoptotic protein
+induced by low neuronal activity, could be a negative regulator of synapse
+density because it is found in dystrophic neurites in Alzheimer's
+disease-affected brains. Here, we report that knockdown of NP1 increases the
+number of excitatory synapses and neuronal excitability in cultured rat cortical 
+neurons and enhances excitatory drive and long-term potentiation in the
+hippocampus of behaving mice. Moreover, we found that NP1 regulates the surface
+expression of the Kv7.2 subunit of the Kv7 family of potassium channels that
+control neuronal excitability. Furthermore, pharmacological activation of Kv7
+channels prevents, whereas inhibition mimics, the increase in synaptic proteins
+evoked by the knockdown of NP1. These results indicate that NP1 negatively
+regulates excitatory synapse number by modulating neuronal excitability and show 
+that NP1 restricts excitatory synaptic plasticity.
+
+Copyright © 2015 the authors 0270-6474/15/355504-18$15.00/0.
+
+PMID: 25855168  [PubMed - indexed for MEDLINE]
+
+
+11. J Neurosci. 2015 Feb 11;35(6):2508-15. doi: 10.1523/JNEUROSCI.3756-14.2015.
+
+Anatomical changes at the level of the primary synapse in neuropathic pain:
+evidence from the spinal trigeminal nucleus.
+
+Wilcox SL(1), Gustin SM(1), Macey PM(2), Peck CC(3), Murray GM(3), Henderson
+LA(4).
+
+Author information: 
+(1)Department of Anatomy and Histology, University of Sydney, Sydney, New South
+Wales, Australia 2006. (2)University of California, Los Angeles, School of
+Nursing and Brain Research Institute, Los Angeles, California 90095, and. (3)Jaw 
+Function and Orofacial Pain Research Unit, Faculty of Dentistry, Westmead
+Hospital, University of Sydney, Australia 2145. (4)Department of Anatomy and
+Histology, University of Sydney, Sydney, New South Wales, Australia 2006,
+lukeh@anatomy.usyd.edu.au.
+
+Accumulated evidence from experimental animal models suggests that neuronal loss 
+within the dorsal horn is involved in the development and/or maintenance of
+peripheral neuropathic pain. However, to date, no study has specifically
+investigated whether such neuroanatomical changes also occur at this level in
+humans. Using brain imaging techniques, we sought to determine whether anatomical
+changes were present in the spinal trigeminal nucleus in subjects with chronic
+orofacial neuropathic pain. In 22 subjects with painful trigeminal neuropathy and
+44 pain-free controls, voxel-based morphometry of T1-weighted anatomical images
+and diffusion tensor images were used to assess regional gray matter volume and
+microstructural changes within the brainstem. In addition, deterministic
+tractography was used to assess the integrity of ascending pain pathways.
+Orofacial neuropathic pain was associated with significant regional gray matter
+volume decreases, fractional anisotropy increases, and mean diffusivity decreases
+within the spinal trigeminal nucleus, specifically the subnucleus oralis. In
+addition, tractography revealed no significant differences in diffusivity
+properties in the root entry zone of the trigeminal nerve, the spinal trigeminal 
+tract, or the ventral trigeminothalamic tracts in painful trigeminal neuropathy
+subjects compared with controls. These data reveal that chronic neuropathic pain 
+in humans is associated with discrete alterations in the anatomy of the primary
+synapse. These neuroanatomical changes may be critical for the generation and/or 
+maintenance of pathological pain.
+
+Copyright © 2015 the authors 0270-6474/15/352508-08$15.00/0.
+
+PMID: 25673845  [PubMed - indexed for MEDLINE]
+
+
+12. J Neurosci. 2015 Feb 4;35(5):2083-100. doi: 10.1523/JNEUROSCI.2753-14.2015.
+
+Ca2+ channel to synaptic vesicle distance accounts for the readily releasable
+pool kinetics at a functionally mature auditory synapse.
+
+Chen Z(1), Das B(2), Nakamura Y(3), DiGregorio DA(3), Young SM Jr(4).
+
+Author information: 
+(1)Research Group Molecular Mechanisms of Synaptic Function, Max Planck Florida
+Institute, Jupiter, Florida 33458. (2)Research Group Molecular Mechanisms of
+Synaptic Function, Max Planck Florida Institute, Jupiter, Florida 33458,
+Integrative Program in Biology and Neuroscience, Florida Atlantic University,
+Jupiter, Florida 33458. (3)Laboratory of Dynamic Neuronal Imaging, Institut
+Pasteur, 75724 Paris Cedex 15, France, and CNRS UMR 3571, 75724 Paris Cedex 15,
+France. (4)Research Group Molecular Mechanisms of Synaptic Function, Max Planck
+Florida Institute, Jupiter, Florida 33458, sam.young@mpfi.org.
+
+Precise regulation of synaptic vesicle (SV) release at the calyx of Held is
+critical for auditory processing. At the prehearing calyx of Held, synchronous
+and asynchronous release is mediated by fast and slow releasing SVs within the
+readily releasable pool (RRP). However, the posthearing calyx has dramatically
+different release properties. Whether developmental alterations in RRP properties
+contribute to the accelerated release time course found in posthearing calyces is
+not known. To study these questions, we performed paired patch-clamp recordings, 
+deconvolution analysis, and numerical simulations of buffered Ca(2+) diffusion
+and SV release in postnatal day (P) 16-19 mouse calyces, as their release
+properties resemble mature calyces of Held. We found the P16-P19 calyx RRP
+consists of two pools: a fast pool (τ ≤ 0.9 ms) and slow pool (τ ∼4 ms), in which
+release kinetics and relative composition of the two pools were unaffected by 5
+mm EGTA. Simulations of SV release from the RRP revealed that two populations of 
+SVs were necessary to reproduce the experimental release rates: (1) SVs located
+close (∼5-25 nm) and (2) more distal (25-100 nm) to VGCC clusters. This
+positional coupling was confirmed by experiments showing 20 mm EGTA
+preferentially blocked distally coupled SVs. Lowering external [Ca(2+)] to in
+vivo levels reduced only the fraction SVs released from the fast pool. Therefore,
+we conclude that a dominant parameter regulating the mature calyx RRP release
+kinetics is the distance between SVs and VGCC clusters.
+
+Copyright © 2015 the authors 0270-6474/15/352083-18$15.00/0.
+
+PMID: 25653365  [PubMed - indexed for MEDLINE]
+
+
+13. J Neurosci. 2015 Jan 7;35(1):386-95. doi: 10.1523/JNEUROSCI.3284-14.2015.
+
+cJun and CREB2 in the postsynaptic neuron contribute to persistent long-term
+facilitation at a behaviorally relevant synapse.
+
+Hu JY(1), Levine A(2), Sung YJ(3), Schacher S(2).
+
+Author information: 
+(1)Department of Neuroscience, Columbia University College of Physicians and
+Surgeons, New York State Psychiatric Institute, New York, New York 10032 and
+jh2004@columbia.edu. (2)Department of Neuroscience, Columbia University College
+of Physicians and Surgeons, New York State Psychiatric Institute, New York, New
+York 10032 and. (3)The Commonwealth Medical College, Department of Basic
+Sciences, Scranton, Pennsylvania 18509.
+
+Comment in
+    J Neurosci. 2015 May 27;35(21):8039-41.
+
+Basic region leucine zipper (bZIP) transcription factors regulate gene expression
+critical for long-term synaptic plasticity or neuronal excitability contributing 
+to learning and memory. At sensorimotor synapses of Aplysia, changes in
+activation or expression of CREB1 and CREB2 in sensory neurons are required for
+long-term synaptic plasticity. However, it is unknown whether concomitant
+stimulus-induced changes in expression and activation of bZIP transcription
+factors in the postsynaptic motor neuron also contribute to persistent long-term 
+facilitation (P-LTF). We overexpressed various forms of CREB1, CREB2, or cJun in 
+the postsynaptic motor neuron L7 in cell culture to examine whether these factors
+contribute to P-LTF. P-LTF is evoked by 2 consecutive days of 5-HT applications
+(2 5-HT), while a transient form of LTF is produced by 1 day of 5-HT applications
+(1 5-HT). Significant increases in the expression of both cJun and CREB2 mRNA in 
+L7 accompany P-LTF. Overexpressing each bZIP factor in L7 did not alter basal
+synapse strength, while coexpressing cJun and CREB2 in L7 evoked persistent
+increases in basal synapse strength. In contrast, overexpressing cJun and CREB2
+in sensory neurons evoked persistent decreases in basal synapse strength.
+Overexpressing wild-type cJun or CREB2, but not CREB1, in L7 can replace the
+second day of 5-HT applications in producing P-LTF. Reducing cJun activity in L7 
+blocked P-LTF evoked by 2 5-HT. These results suggest that expression and
+activation of different bZIP factors in both presynaptic and postsynaptic neurons
+contribute to persistent change in synapse strength including stimulus-dependent 
+long-term synaptic plasticity.
+
+Copyright © 2015 the authors 0270-6474/15/350386-10$15.00/0.
+
+PMCID: PMC4287154
+PMID: 25568130  [PubMed - indexed for MEDLINE]
+
+
+14. J Neurosci. 2015 Jan 7;35(1):287-98. doi: 10.1523/JNEUROSCI.0244-14.2015.
+
+Altered sensory experience exacerbates stable dendritic spine and synapse loss in
+a mouse model of Huntington's disease.
+
+Murmu RP(1), Li W(1), Szepesi Z(1), Li JY(2).
+
+Author information: 
+(1)Neural Plasticity and Repair Unit, Wallenberg Neuroscience Center, Department 
+of Experimental Medical Sciences, Lund University, BMC A10, 22184 Lund, Sweden,
+and. (2)Neural Plasticity and Repair Unit, Wallenberg Neuroscience Center,
+Department of Experimental Medical Sciences, Lund University, BMC A10, 22184
+Lund, Sweden, and Neuroscience Institute, College of Life and Health Sciences,
+Northeastern University, Shenyang 110015, People's Republic of China
+jia-yi.li@med.lu.se jiayili@mail.neu.edu.cn.
+
+A key question in Huntington's disease (HD) is what underlies the early cognitive
+deficits that precede the motor symptoms and the characteristic neuronal death
+observed in HD. The mechanisms underlying cognitive symptoms in HD remain
+unknown. Postmortem HD brain and animal model studies demonstrate pathologies in 
+dendritic spines and abnormal synaptic plasticity before motor symptoms and
+neurodegeneration. Experience-dependent synaptic plasticity caused by mechanisms 
+such as LTP or novel sensory experience potentiates synaptic strength, enhances
+new dendritic spine formation and stabilization, and may contribute to normal
+cognitive processes, such as learning and memory. We have previously reported
+that under baseline conditions (without any sensory manipulation) neuronal
+circuitry in HD (R6/2 mouse model) was highly unstable, which led to a
+progressive loss of persistent spines in these mice, and that mutant huntingtin
+was directly involved in the process. Here, we investigated whether pathological 
+processes of HD interfere with the normal experience-dependent plasticity of
+dendritic spines in the R6/2 model. Six weeks of two-photon in vivo imaging
+before and after whisker trimming revealed that sensory deprivation exacerbates
+loss of persistent-type, stable spines in R6/2 mice compared with wild-type
+littermates. In addition, sensory deprivation leads to impaired transformation of
+newly generated spines into persistent spines in R6/2 mice. As a consequence,
+reduced synaptic density and decreased PSD-95 protein levels are evident in their
+barrel cortical neurons. These data suggest that mutant huntingtin is implicated 
+in maladaptive synaptic plasticity, which could be one of the plausible
+mechanisms underlying early cognitive deficits in HD.
+
+Copyright © 2015 the authors 0270-6474/15/350287-12$15.00/0.
+
+PMID: 25568121  [PubMed - indexed for MEDLINE]
+
